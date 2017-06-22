@@ -20,4 +20,4 @@ LABEL org.label-schema.vendor="Softonic" \
     org.label-schema.build-date=$build_date
 
 ADD rootfs /
-RUN mkdir -p /123
+RUN mkdir -p /333
